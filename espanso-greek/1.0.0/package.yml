@@ -1,0 +1,150 @@
+# Simple package
+
+name: simple-package
+parent: default
+
+matches:
+  - trigger: ":alpha"
+    replace: "α"
+
+  - trigger: ":beta"
+    replace: "β"
+
+  - trigger: ":gamma"
+    replace: "γ"
+
+  - trigger: ":delta"
+    replace: "δ"
+
+  - trigger: ":epsilon"
+    replace: "ε"
+
+  - trigger: ":zeta"
+    replace: "ζ"
+
+  - trigger: ":eta"
+    replace: "η"
+
+  - trigger: ":theta"
+    replace: "θ"
+
+  - trigger: ":iota"
+    replace: "ι"
+
+  - trigger: ":kappa"
+    replace: "κ"
+
+  - trigger: ":lambda"
+    replace: "λ"
+
+  - trigger: ":mu"
+    replace: "μ"
+
+  - trigger: ":nu"
+    replace: "ν"
+
+  - trigger: ":xi"
+    replace: "ξ"
+
+  - trigger: ":omicron"
+    replace: "ο"
+
+  - trigger: ":pi"
+    replace: "π"
+
+  - trigger: ":rho"
+    replace: "ρ"
+
+  - trigger: ":sigma"
+    replace: "σ"
+
+  - trigger: ":tau"
+    replace: "τ"
+
+  - trigger: ":upsilon"
+    replace: "υ"
+
+  - trigger: ":phi"
+    replace: "φ"
+
+  - trigger: ":chi"
+    replace: "χ"
+
+  - trigger: ":psi"
+    replace: "ψ"
+
+  - trigger: ":omega"
+    replace: "ω"
+
+  #
+  - trigger: ":Alpha"
+    replace: "Α"
+
+  - trigger: ":Beta"
+    replace: "Β"
+
+  - trigger: ":Gamma"
+    replace: "Γ"
+
+  - trigger: ":Delta"
+    replace: "Δ"
+
+  - trigger: ":Epsilon"
+    replace: "Ε"
+
+  - trigger: ":Zeta"
+    replace: "Ζ"
+
+  - trigger: ":Eta"
+    replace: "Η"
+
+  - trigger: ":Theta"
+    replace: "Θ"
+
+  - trigger: ":Iota"
+    replace: "Ι"
+
+  - trigger: ":Kappa"
+    replace: "Κ"
+
+  - trigger: ":Lambda"
+    replace: "Λ"
+
+  - trigger: ":Mu"
+    replace: "M"
+
+  - trigger: ":Nu"
+    replace: "N"
+
+  - trigger: ":Xi"
+    replace: "Ξ"
+
+  - trigger: ":Omicron"
+    replace: "O"
+
+  - trigger: ":Pi"
+    replace: "Π"
+
+  - trigger: ":Rho"
+    replace: "P"
+
+  - trigger: ":Sigma"
+    replace: "Σ"
+
+  - trigger: ":Tau"
+    replace: "T"
+
+  - trigger: ":Upsilon"
+    replace: "Υ"
+
+  - trigger: ":Phi"
+    replace: "Φ"
+
+  - trigger: ":Chi"
+    replace: "Χ"
+
+  - trigger: ":Psi"
+    replace: "Ψ"
+
+  - trigger: ":Omega"
+    replace: "Ω"
